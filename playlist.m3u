@@ -1,0 +1,93 @@
+#EXTM3U
+#RADIOBROWSERUUID:960cf833-0601-11e8-ae97-52543be04c81
+#EXTINF:-1,SomaFM Groove Salad
+http://ice3.somafm.com/groovesalad-128-mp3
+
+#RADIOBROWSERUUID:960ac308-0601-11e8-ae97-52543be04c81
+#EXTINF:-1,Venice Classic Radio
+http://174.36.206.197:8000/stream
+
+#RADIOBROWSERUUID:e2b8aa46-a8f1-11e9-88f4-52543be04c81
+#EXTINF:-1,Dance Wave Retro!
+http://stream2.dancewave.online:8080/retrodance.mp3
+
+#RADIOBROWSERUUID:96241312-0601-11e8-ae97-52543be04c81
+#EXTINF:-1,Wicca Radio
+http://streaming.radionomy.com/JamendoLounge
+
+#RADIOBROWSERUUID:a404381d-5419-11e8-b0ce-52543be04c81
+#EXTINF:-1,Radio Caprice - Breakbeat
+http://79.120.39.202:9051/
+
+#RADIOBROWSERUUID:2575e5e6-bf7c-11e9-8502-52543be04c81
+#EXTINF:-1,Radio Caprice - Classical Baroque
+http://79.111.14.76:8002/baroque
+
+#RADIOBROWSERUUID:2f0fabd6-b2ea-11e8-afe1-52543be04c81
+#EXTINF:-1,Radio Caprice - Contemporary Classical
+http://79.111.119.111:8002/contclass
+
+#RADIOBROWSERUUID:b1f42e1f-8aee-11e9-ad01-52543be04c81
+#EXTINF:-1,Radio Caprice - Erotic
+http://79.120.39.202:8000/erotic
+
+#RADIOBROWSERUUID:3749a83f-5418-11e8-b0ce-52543be04c81
+#EXTINF:-1,Radio Caprice TripHop
+http://79.111.14.76:9013/
+
+#RADIOBROWSERUUID:961f97be-0601-11e8-ae97-52543be04c81
+#EXTINF:-1,Radio Caprice - Roots Reggae
+http://79.111.119.111:9047/
+
+#RADIOBROWSERUUID:6cc8ec34-404e-11e9-aa55-52543be04c81
+#EXTINF:-1,Radio Caprice - Abstract Hip-hop
+http://79.111.14.76:9093/;stream/1
+
+#RADIOBROWSERUUID:962c9c84-0601-11e8-ae97-52543be04c81
+#EXTINF:-1,24/7 Polka Heaven
+http://192.99.83.149:8046
+
+#RADIOBROWSERUUID:96113c8d-0601-11e8-ae97-52543be04c81
+#EXTINF:-1,Polka Jammer Station
+http://199.58.161.66:80
+
+#RADIOBROWSERUUID:3470c633-d898-11e8-a9cc-52543be04c81
+#EXTINF:-1,Deep Space Radio
+http://deepspaceradio2.streamguys1.com/live-mp3
+
+#RADIOBROWSERUUID:85813cf6-df6e-11e9-a8ba-52543be04c81
+#EXTINF:-1,Radio Caprice - Space Music
+http://79.111.119.111:8000/spacemusic
+
+#RADIOBROWSERUUID:964efe81-0601-11e8-ae97-52543be04c81
+#EXTINF:-1,SomaFM Space Station Soma (MP3)
+http://ice3.somafm.com/spacestation-128-mp3
+
+#RADIOBROWSERUUID:960b95fd-0601-11e8-ae97-52543be04c81
+#EXTINF:-1,STR - Space Travel Radio
+http://136.243.156.30:1701/stream/2/
+
+#RADIOBROWSERUUID:d14fb75c-a2c6-11e9-a787-52543be04c81
+#EXTINF:-1,Cinemix
+http://158.69.38.195:20082
+
+#RADIOBROWSERUUID:8b59d8e8-9e65-11e8-a767-52543be04c81
+#EXTINF:-1,Arcano Mundo
+https://arcano-mundo.stream.laut.fm/arcano-mundo?t302=2020-01-10_01-39-26&uuid=7db6ffc5-6a8b-45e0-ae45-f93b6836bc92
+
+#RADIOBROWSERUUID:961a2efb-0601-11e8-ae97-52543be04c81
+#EXTINF:-1,Radio Arcadie
+http://streaming.radionomy.com/JamendoLounge
+
+#RADIOBROWSERUUID:b286ccbf-118b-11e8-ae97-52543be04c81
+#EXTINF:-1,Classic Video Game
+http://136.243.156.30:1541/stream/2/
+
+#RADIOBROWSERUUID:2b9e162b-498f-11e9-a4d7-52543be04c81
+#EXTINF:-1,Radio Caprice - Computer / Video Game Music (Ost / Score / Soundrack)
+http://79.120.39.202:9139/
+
+#RADIOBROWSERUUID:1c1469c2-89c0-11e8-aa66-52543be04c81
+#EXTINF:-1,Radio GamePlay
+http://62.109.3.230/gameplay.mp3
+
